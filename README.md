@@ -1,5 +1,3 @@
-# View demo from here
-https://phaneendrababu.github.io/reactapp/
 
 # Getting Started with Create React App
 
